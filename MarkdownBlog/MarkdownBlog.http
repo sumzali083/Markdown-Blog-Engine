@@ -1,0 +1,6 @@
+@MarkdownBlog_HostAddress = http://localhost:5258
+
+GET {{MarkdownBlog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
